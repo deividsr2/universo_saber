@@ -6,7 +6,7 @@ import os
 
 # Caminho para o diretório das fotos e cadastro
 fotos_path = r"C:\Users\deivi\Desktop\projetos\escola"
-cadastro_path = r"C:\Users\deivi\Desktop\projetos\escola\cadastro.xlsx"
+cadastro_path = r"cadastro.xlsx"
 
 # Carregar a planilha de usuários
 try:
